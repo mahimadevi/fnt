@@ -1,5 +1,5 @@
-// require('dotenv').config();
 
 
-export const API_KEY = process.env.API_KEY;
-export const TMDB_BASE_URL = process.env.TMDB_BASE_URL;
+
+export const API_KEY = "053af03ee91b20a62026d293e5491f60";
+export const TMDB_BASE_URL = "https://api.themoviedb.org/3";
